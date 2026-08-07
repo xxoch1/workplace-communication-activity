@@ -49,8 +49,6 @@ BEGIN
         PRINT "Team Lead: Excellent updates. Continue monitoring and GNPI me for urgent issues."
         PRINT "Team Lead: Excellent updates. Continue monitoring and PING me for urgent issues."
             PING - Small update to fix something
-            
-        PRINT "Team Lead: Excellent updates. Continue monitoring and GNPI me for urgent issues."
         
     END FUNCTION
 
